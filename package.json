@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm i",
     "open": "cypress open",
-    "test": "cypress run --browser chrome"
+    "test": "cypress run"
   },
   "keywords": [],
   "author": "Shahar Moshe Refaeli",
