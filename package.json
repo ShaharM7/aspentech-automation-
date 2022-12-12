@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "npm i",
     "open": "cypress open",
     "test": "cypress run --browser chrome"
   },
