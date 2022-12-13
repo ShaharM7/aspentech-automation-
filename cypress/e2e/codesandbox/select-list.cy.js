@@ -1,5 +1,6 @@
 /// <reference types= "cypress"/>
-import { slowCypressDown } from 'cypress-slow-down'
+import {slowCypressDown} from 'cypress-slow-down'
+
 Cypress.on('uncaught:exception', (err) => {
     return false
 })
